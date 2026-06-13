@@ -22,7 +22,7 @@ Many QR codes can redirect users to unsafe websites. ShieldQR helps users verify
 
 ## Live Demo
 
-[Netlify Link]
+https://velvety-kitten-350424.netlify.app
 
 ## Author
 
