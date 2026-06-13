@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ShieldQR
 
-# Run and deploy your AI Studio app
+ShieldQR is a web-based QR security platform that helps users identify potentially unsafe QR code links before opening them.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/004ac4ca-3fcf-4d63-9f27-7b1024c08e9f
+- QR code URL analysis
+- Detection of suspicious and phishing links
+- Risk assessment for scanned URLs
+- Simple and user-friendly interface
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+- HTML
+- CSS
+- TypeScript
+- Vite
 
+## Project Purpose
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Many QR codes can redirect users to unsafe websites. ShieldQR helps users verify the safety of QR code links and make informed decisions before visiting a website.
+
+## Live Demo
+
+[Netlify Link]
+
+## Author
+
+Rushikesh Ravindra Nanaware
