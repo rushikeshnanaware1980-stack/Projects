@@ -1,0 +1,8 @@
+{
+  "name": "ShieldQR - AI Security Scanner",
+  "description": "A high-security QR code scanner that uses Gemini AI to analyze links for phishing, malware, and malicious patterns, with automated cyber-crime reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
